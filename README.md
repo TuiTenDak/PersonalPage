@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="#"><img  width="200px" alt="Personal Page"></a>
+  Personal Page
 </h1>
 <hr Align="center" height="5px">
 
