@@ -1,3 +1,7 @@
+<h1 align="center">
+  <br>
+  <a href="#"><img  width="200px" alt="Personal Page"></a>
+</h1>
 <hr Align="center" height="5px">
 
 ![ alt text ](https://img.shields.io/badge/HTML-0.2.1-E34F26?style=for-the-badge&logo=HTML)
