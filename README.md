@@ -1,4 +1,4 @@
-<hr>
+<hr align="center">
 
 ![ alt text ](https://img.shields.io/badge/HTML-0.2.1-E34F26?style=for-the-badge&logo=HTML)
 ![ alt text ](https://img.shields.io/badge/css3-1.13.1-1572B6?style=for-the-badge&logo=css3)
