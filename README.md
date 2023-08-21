@@ -2,7 +2,6 @@
   <br>
   Personal Page
 </h1>
-<hr Align="center" height="5px">
 
 <div align="center">
     
