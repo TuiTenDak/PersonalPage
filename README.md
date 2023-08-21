@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://nuclei.projectdiscovery.io"><img src="static/nuclei-logo.png" width="200px" alt="Nuclei"></a>
+  
 </h1>
 <div align="center">
     ![ alt text ](https://img.shields.io/badge/HTML-0.2.1-E34F26?style=for-the-badge&logo=HTML)
